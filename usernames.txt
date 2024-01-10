@@ -1,0 +1,96 @@
+5304386205, SudokuH
+388050565, Makmafin,
+2222.0UYUsellRUB_2UYU388050565, Makmafin,
+2222.0 buy MAD_2USDT
+388050565, Makmafin,
+1000.0 buy MAD_2USDT  10549.0
+388050565, Makmafin,
+2222.0 sell RUB_2UYU  4710.254
+388050565, Makmafin,
+3333.0 sell UYU_2KZT  282.292
+id: 388050565, username: @Makmafin,
+ �������� ����� buy 2222.0  RUB �� USDT = 24.224
+id: 388050565, username: @Makmafin,
+ желаемая сумма buy 2222.0  RUB за USDT = 24.224
+id: 388050565, username: @Makmafin,
+ желаемая сумма buy 333.0  MAD за KZT = 15074.593
+id: 388050565, username: @Makmafin,
+ желаемая сумма sell 111.0  USDT за KZT = 52487.793
+id: 388050565, username: @Makmafin,
+ желаемая сумма sell 6766.0  UYU за USDT = 156.592
+id: 5304386205, username: @SudokuH,
+ желаемая сумма buy 1.0  MAD за RUB = 8.939
+id: 660993487, username: @None,
+ желаемая сумма buy 1000.0  MAD за RUB = 8620.875
+id: 660993487, username: @None,
+ желаемая сумма buy 1000.0  MAD за RUB = 8620.875
+id: 388050565, username: @Makmafin,
+ желаемая сумма buy 999.0  RUB за KZT = 5252.201
+id: 388050565, username: @Makmafin,
+ желаемая сумма sell 44.0  RUB за KZT = 218.45
+id: 388050565, username: @Makmafin,
+ желаемая сумма sell 55.0  UYU за KZT = 608.678
+id: 1027571047, username: @sousizchuvstv,
+ желаемая сумма sell 35000.0  UYU за RUB = 76228.317
+id: 1027571047, username: @sousizchuvstv,
+ желаемая сумма sell 35000.0  UYU за RUB = 76228.317
+id: 1027571047, username: @sousizchuvstv,
+ желаемая сумма sell 35000.0  UYU за RUB = 76228.317
+id: 388050565, username: @Makmafin,
+ желаемая сумма sell 111.0  MAD за KZT = 4955.998
+id: 483779431, username: @Oster111,
+ желаемая сумма sell 10000.0  MAD за RUB = 87900.526
+id: 483779431, username: @Oster111,
+ желаемая сумма sell 10000.0  MAD за RUB = 87900.526
+id: 483779431, username: @Oster111,
+ желаемая сумма sell 10000.0  MAD за USDT = 956.48
+id: 479575630, username: @KSERA,
+ желаемая сумма sell 10000.0  MAD за RUB = 87077.482
+id: 479575630, username: @KSERA,
+ желаемая сумма sell 40000.0  MAD за RUB = 348309.926
+id: 479575630, username: @KSERA,
+ желаемая сумма sell 40000.0  MAD за USDT = 3821.534
+id: 1330326784, username: @None,
+ желаемая сумма buy 1000.0  MAD за RUB = 8840.326
+id: 356448051, username: @Opilenya,
+ желаемая сумма sell 10200.0  MAD за RUB = 88731.826
+id: 356448051, username: @Opilenya,
+ желаемая сумма sell 10200.0  MAD за RUB = 88731.826
+id: 356448051, username: @Opilenya,
+ желаемая сумма sell 10200.0  MAD за USDT = 973.097
+id: 6362180801, username: @None,
+ желаемая сумма buy 2000.0  MAD за RUB = 17656.43
+id: 388050565, username: @Makmafin,
+ желаемая сумма sell 1.0  MAD за RUB = 8.704
+id: 479575630, username: @KSERA,
+ желаемая сумма sell 10000.0  MAD за RUB = 87801.609
+id: 827812891, username: @Rummari1,
+ желаемая сумма sell 8000.0  MAD за RUB = 69846.213
+id: 827812891, username: @Rummari1,
+ желаемая сумма sell 8000.0  MAD за RUB = 69846.213
+id: 827812891, username: @Rummari1,
+ желаемая сумма sell 10000.0  MAD за RUB = 87307.766
+id: 551654220, username: @kuz_nast,
+ желаемая сумма buy 1500.0  MAD за RUB = 13486.382
+id: 551654220, username: @kuz_nast,
+ желаемая сумма buy 1500.0  MAD за RUB = 13486.382
+id: 551654220, username: @kuz_nast,
+ желаемая сумма buy 1500.0  MAD за RUB = 13486.382
+id: 551654220, username: @kuz_nast,
+ желаемая сумма buy 2000.0  MAD за RUB = 17981.843
+id: 6221667007, username: @evgen_odb,
+ желаемая сумма sell 3000.0  MAD за RUB = 26274.036
+id: 483779431, username: @Oster111,
+ желаемая сумма sell 4000.0  MAD за USDT = 386.511
+id: 483779431, username: @Oster111,
+ желаемая сумма sell 4000.0  MAD за USDT = 386.511
+id: 483779431, username: @Oster111,
+ желаемая сумма sell 4000.0  MAD за USDT = 386.511
+id: 483779431, username: @Oster111,
+ желаемая сумма sell 4000.0  MAD за USDT = 386.511
+id: 483779431, username: @Oster111,
+ желаемая сумма sell 4000.0  MAD за USDT = 386.511
+id: 300452228, username: @OlesiaLoginova,
+ желаемая сумма buy 3000.0  MAD за RUB = 27406.107
+id: 300452228, username: @OlesiaLoginova,
+ желаемая сумма buy 5000.0  MAD за RUB = 45676.845
